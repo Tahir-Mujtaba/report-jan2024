@@ -4,8 +4,8 @@ city: New york
 is student : true
 g:
   - subject : Math
-    grades : C
+    grades : E
   - subject : English
-    grades : C
+    grades : E
   - subject : Science
-    grades : C
+    grades : E
