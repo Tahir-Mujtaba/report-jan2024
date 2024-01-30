@@ -1,11 +1,11 @@
 name: John Doe
 age: 30
 city: New york
-is_student: false
-grades:
-  - subject: math
-    grade: A
-  - subject: English
-    grade: A
-  - subject: Science
-    grade: A
+is student : true
+g:
+  - subject : Math
+    grades : A
+  - subject : English
+    grades : A
+  - subject : Science
+    grades : A
